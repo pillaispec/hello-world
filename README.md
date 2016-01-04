@@ -1,3 +1,3 @@
 # hello-world
 Edit to Commit :)
-Fixing issue1
+Fixing issue 1
